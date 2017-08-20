@@ -1,3 +1,3 @@
-if(test) {
-  console.log('it's just test');
+if(test === 'test' || test === 'test2') {
+  console.log('it\'s just test');
 }
